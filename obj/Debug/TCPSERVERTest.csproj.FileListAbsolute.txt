@@ -1,0 +1,10 @@
+c:\users\stas\source\repos\TCPSERVERTest\TCPSERVERTest\bin\Debug\TCPSERVERTest.exe.config
+c:\users\stas\source\repos\TCPSERVERTest\TCPSERVERTest\bin\Debug\TCPSERVERTest.exe
+c:\users\stas\source\repos\TCPSERVERTest\TCPSERVERTest\bin\Debug\TCPSERVERTest.pdb
+c:\users\stas\source\repos\TCPSERVERTest\TCPSERVERTest\obj\Debug\TCPSERVERTest.csprojResolveAssemblyReference.cache
+c:\users\stas\source\repos\TCPSERVERTest\TCPSERVERTest\obj\Debug\TCPSERVERTest.Form1.resources
+c:\users\stas\source\repos\TCPSERVERTest\TCPSERVERTest\obj\Debug\TCPSERVERTest.Properties.Resources.resources
+c:\users\stas\source\repos\TCPSERVERTest\TCPSERVERTest\obj\Debug\TCPSERVERTest.csproj.GenerateResource.Cache
+c:\users\stas\source\repos\TCPSERVERTest\TCPSERVERTest\obj\Debug\TCPSERVERTest.csproj.CoreCompileInputs.cache
+c:\users\stas\source\repos\TCPSERVERTest\TCPSERVERTest\obj\Debug\TCPSERVERTest.exe
+c:\users\stas\source\repos\TCPSERVERTest\TCPSERVERTest\obj\Debug\TCPSERVERTest.pdb
